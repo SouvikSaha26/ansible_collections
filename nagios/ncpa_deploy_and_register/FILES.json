@@ -1,0 +1,131 @@
+{
+    "files": [
+        {
+            "format": 1, 
+            "ftype": "dir", 
+            "chksum_sha256": null, 
+            "name": ".", 
+            "chksum_type": null
+        }, 
+        {
+            "format": 1, 
+            "ftype": "dir", 
+            "chksum_sha256": null, 
+            "name": "roles", 
+            "chksum_type": null
+        }, 
+        {
+            "format": 1, 
+            "ftype": "file", 
+            "chksum_sha256": "3f56804b209f6b0e682c662fdb032c51545ce459afe44ff8519ef485fa0e07b1", 
+            "name": "run.sh", 
+            "chksum_type": "sha256"
+        }, 
+        {
+            "format": 1, 
+            "ftype": "file", 
+            "chksum_sha256": "f3e8383515a85168f017cdcb5172174bccb3fd84206ccf7ae13d5fbbfda0600e", 
+            "name": "hosts.example", 
+            "chksum_type": "sha256"
+        }, 
+        {
+            "format": 1, 
+            "ftype": "file", 
+            "chksum_sha256": "08b58cd0bb969296ae0578e7c3e2a33dcdad3f8f2450c510c0f8fd7efc89f62b", 
+            "name": "README.md", 
+            "chksum_type": "sha256"
+        }, 
+        {
+            "format": 1, 
+            "ftype": "file", 
+            "chksum_sha256": "37ab744e9e0f1059ae301a25159898af1f276bc6bb59b09c3d86fefb04d9e75b", 
+            "name": "galaxy.yml", 
+            "chksum_type": "sha256"
+        }, 
+        {
+            "format": 1, 
+            "ftype": "file", 
+            "chksum_sha256": "9f600eff3f0f02d41664e33a07a2de9559d4a7df02de958810dd2da302d232c7", 
+            "name": "secrets.yml", 
+            "chksum_type": "sha256"
+        }, 
+        {
+            "format": 1, 
+            "ftype": "file", 
+            "chksum_sha256": "fea384ea44280cc77d6880e432b753fee650bd381c605c8428ec14085bbbbac6", 
+            "name": "ansible.cfg", 
+            "chksum_type": "sha256"
+        }, 
+        {
+            "format": 1, 
+            "ftype": "file", 
+            "chksum_sha256": "b3823c4a46df0035c901bbc5fb1d41fbd498b68ab4d202cc1df77eb5d49aa5de", 
+            "name": "ncpa_install_and_register.yml", 
+            "chksum_type": "sha256"
+        }, 
+        {
+            "format": 1, 
+            "ftype": "dir", 
+            "chksum_sha256": null, 
+            "name": "roles/xi_apply_config", 
+            "chksum_type": null
+        }, 
+        {
+            "format": 1, 
+            "ftype": "dir", 
+            "chksum_sha256": null, 
+            "name": "roles/ncpa_install_linux", 
+            "chksum_type": null
+        }, 
+        {
+            "format": 1, 
+            "ftype": "dir", 
+            "chksum_sha256": null, 
+            "name": "roles/register_with_xi", 
+            "chksum_type": null
+        }, 
+        {
+            "format": 1, 
+            "ftype": "dir", 
+            "chksum_sha256": null, 
+            "name": "roles/xi_apply_config/tasks", 
+            "chksum_type": null
+        }, 
+        {
+            "format": 1, 
+            "ftype": "file", 
+            "chksum_sha256": "3c5dbbab4dd2659560ccd61bfe4156b3c2bc25b6401eaaeedfc4094db639dec0", 
+            "name": "roles/xi_apply_config/tasks/main.yml", 
+            "chksum_type": "sha256"
+        }, 
+        {
+            "format": 1, 
+            "ftype": "dir", 
+            "chksum_sha256": null, 
+            "name": "roles/ncpa_install_linux/tasks", 
+            "chksum_type": null
+        }, 
+        {
+            "format": 1, 
+            "ftype": "file", 
+            "chksum_sha256": "098e57555b8e48159ad202bcd59627691973069f54d26f83ff71da56768615a8", 
+            "name": "roles/ncpa_install_linux/tasks/main.yml", 
+            "chksum_type": "sha256"
+        }, 
+        {
+            "format": 1, 
+            "ftype": "dir", 
+            "chksum_sha256": null, 
+            "name": "roles/register_with_xi/tasks", 
+            "chksum_type": null
+        }, 
+        {
+            "format": 1, 
+            "ftype": "file", 
+            "chksum_sha256": "65227157e7d7bb7ff75b2204e3fd40aafc492261f3f4f096327691824b1168a8", 
+            "name": "roles/register_with_xi/tasks/main.yml", 
+            "chksum_type": "sha256"
+        }
+    ], 
+    "format": 1
+}

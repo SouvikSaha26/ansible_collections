@@ -1,0 +1,19 @@
+namespace: "nagios"
+name: "ncpa_deploy_and_register"
+version: "0.1.0"
+readme: "README.md"
+authors:
+    - "Aaron Cieslicki"
+    - "Trevor McDonald"
+license:
+    - "GPL-3.0-only"
+tags:
+    - nagios
+    - collection
+    - playbooks
+    - agent
+    - ncpa
+repository: "https://github.com/NagiosEnterprises/automation/tree/master/ansible/ncpa_install_and_register"
+documentation: "https://www.youtube.com/watch?v=Vkwf5Rp3Kj4&list=PLN-ryIrpC_mB3LsYJja8sFFCS97EzkbJW&index=5"
+homepage: "http://www.nagios.com"
+issues: "https://github.com/NagiosEnterprises/automation/issues"

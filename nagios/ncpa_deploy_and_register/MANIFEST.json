@@ -1,0 +1,37 @@
+{
+    "collection_info": {
+        "license": [
+            "GPL-3.0-only"
+        ], 
+        "name": "ncpa_deploy_and_register", 
+        "repository": "https://github.com/NagiosEnterprises/automation/tree/master/ansible/ncpa_install_and_register", 
+        "tags": [
+            "nagios", 
+            "collection", 
+            "playbooks", 
+            "agent", 
+            "ncpa"
+        ], 
+        "documentation": "https://www.youtube.com/watch?v=Vkwf5Rp3Kj4&list=PLN-ryIrpC_mB3LsYJja8sFFCS97EzkbJW&index=5", 
+        "namespace": "nagios", 
+        "version": "0.1.0", 
+        "dependencies": {}, 
+        "authors": [
+            "Aaron Cieslicki", 
+            "Trevor McDonald"
+        ], 
+        "readme": "README.md", 
+        "license_file": null, 
+        "homepage": "http://www.nagios.com", 
+        "issues": "https://github.com/NagiosEnterprises/automation/issues", 
+        "description": null
+    }, 
+    "file_manifest_file": {
+        "format": 1, 
+        "ftype": "file", 
+        "chksum_sha256": "cd34f7a18ba2b4e7f173b01b45e9110184a15f9c449601beb14d6a205fd895c5", 
+        "name": "FILES.json", 
+        "chksum_type": "sha256"
+    }, 
+    "format": 1
+}
